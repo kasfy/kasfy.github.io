@@ -1,0 +1,19 @@
+{
+  "name": "kasfy-docs",
+  "version": "0.0.1",
+  "description": "The NodeJS Framework for Smart Back-End",
+  "main": "index.js",
+  "authors": {
+    "name": "Katheesh",
+    "email": "ikatheesh@gmail.com"
+  },
+  "repository": "https://github.com/kasfy/kasfy.github.io/kasfy-docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
