@@ -6,5 +6,5 @@ tagline: v 1.0.1
 actionText: Quick Start →
 actionLink: /guide/
 
-footer: Katheesh ❤️ @ Copyright © 2020 
+footer: ❤️ Katheesh © 2020 ❤️
 ---
