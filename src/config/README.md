@@ -2,14 +2,18 @@
 sidebar: auto
 ---
 
-# Config
+## Structure of Folder Tree (MVC)
+```
+|--app
+  |--controllers
+  |--middleware
+  |--models
+  |--providers
+|--config
+|--database
+|--node_modules
+|--public
+|--routes
+|--views
 
-## foo
-
-- Type: `string`
-- Default: `/`
-
-## bar
-
-- Type: `string`
-- Default: `/`
+```
