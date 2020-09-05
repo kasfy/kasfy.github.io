@@ -6,5 +6,5 @@ tagline: alpha 1.3
 actionText: Quick Start →
 actionLink: /guide/
 
-footer: ❤️ Katheesh © 2020 ❤️
+footer: 🔥 Katheesh ©️ 2020 ❤️
 ---
