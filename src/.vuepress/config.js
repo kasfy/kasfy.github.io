@@ -41,8 +41,8 @@ module.exports = {
         link: '/guide/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'About',
+        link: '/about/'
       },
       {
         text: 'Github',
@@ -57,6 +57,19 @@ module.exports = {
           children: [
             '',
             'Getting Started',
+            'Commands',
+            'Folder Structure',
+            'Deployment',
+          ]
+        }
+      ],
+      '/about/': [
+        {
+          title: 'About',
+          collapsable: false,
+          children: [
+            '',
+            'Contributors'
           ]
         }
       ],

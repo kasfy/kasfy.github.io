@@ -5,7 +5,7 @@
 - [Database Server](#)
 
 ## Global Setup
-> after install node package manager following these steps
+**After install node package manager (NPM) following these steps**
 
 Install Globallay Kasfy
 ```bash
@@ -16,16 +16,17 @@ sudo npm install -g kasfy
 npm install -g kasfy
 ```
 
-> Navigate your like path after run this command to clone kasfy latest repository you need name
+## Create New Project
+
+Navigate your like path after run this command to clone kasfy latest repository to create new Project.
 
 ```bash
 kasfy create AwesomeApp   
-
+# AwesomeApp is sample name.
 # OR
 
 kasfy new AwesomeApp
 ```
-> 'AwesomeApp' is sample name. 
 
 ## Setup Project
 Navigate your new kasfy project
@@ -40,16 +41,21 @@ cp .env.example .env
 copy .env.example .env
 ```
 
-Next install NPM Dependencies
+Next install `NPM` Dependencies
 ```bash
 npm install
 ```
 
 ### Local Development Server
-If you have NodeJS installed locally and you would like to use NodeJS's built-in development server to serve your application, you may use the serve kasfy command. This command will start a development server at http://localhost:5050:
-> you can change default port on .env file `PORT=5050`
+If you have NodeJS installed locally and you would like to use NodeJS's built-in development server to serve your application, you may use the serve kasfy command. This command will start a development server at `http://localhost:5050`
+
+- _You can change default port on .env file_ `PORT=5050`
 
 ```bash
-npm start
+kasfy serve 
+
+#OR
+
+kasfy dev
 ```
 

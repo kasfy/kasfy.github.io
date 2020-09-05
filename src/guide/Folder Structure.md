@@ -1,9 +1,6 @@
----
-sidebar: auto
----
+## Folder Structure
 
-## Structure of Folder Tree (MVC)
-```
+```nash
 |--app
   |--controllers
   |--middleware
@@ -17,3 +14,5 @@ sidebar: auto
 |--views
 
 ```
+
+## Folder Connection Diagram
