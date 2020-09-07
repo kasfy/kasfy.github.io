@@ -57,8 +57,9 @@ module.exports = {
           children: [
             '',
             'Getting Started',
-            'Commands',
-            'Folder Structure',
+            'CLI Commands',
+            'Kasfy Structure',
+            'Migrations',
             'Deployment',
           ]
         }

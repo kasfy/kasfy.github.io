@@ -5,7 +5,7 @@
 - [Database Server](#)
 
 ## Global Setup
-**After install node package manager (NPM) following these steps**
+**After install `NPM` (Node Package Manager) following these steps**
 
 Install Globallay Kasfy
 ```bash
@@ -58,4 +58,5 @@ kasfy serve
 
 kasfy dev
 ```
+- This command require `NPM` package, to install: `npm install -g npm`
 
