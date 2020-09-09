@@ -1,11 +1,13 @@
-# Introduction
+# Migrations
+
+## Introduction
 Migrations are typically paired with Kasfy's schema builder to build your application's database schema. If you have ever had to tell a teammate to manually add a column to their local database schema, you've faced the problem that database migrations solve.
 
 ## Generating Migrations
 ```bash
 
-    kasfy make:migration --table=users
-    
+    kasfy make:migration users
+
 ```
 
 ## Migration Structure
