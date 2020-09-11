@@ -1,5 +1,7 @@
 ## Folder Structure
 
+### We would like to release `kasfy` as MVC Structure
+
 ```nash
 |--app
   |--controllers
@@ -16,3 +18,15 @@
 ```
 
 ## Folder Connection Diagram
+
+```nash
+|--routes
+|    |--app/controllers
+|    |      |--app/models
+|    |      |--app/middleware
+|    |      |--app/providers
+|    |      |--views
+|    |            |--public
+|--config
+
+```

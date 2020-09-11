@@ -11,9 +11,11 @@ Install Globallay Kasfy
 ```bash
 # linux, ubuntu, and mac using with "sudo"
 sudo npm install -g kasfy
+sudo npm install -g npm
 
 # windows must run cmd with administrator permission 
 npm install -g kasfy
+npm install -g npm
 ```
 
 ## Create New Project
