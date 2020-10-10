@@ -1,4 +1,6 @@
 # Contributor List
+> ![image](https://avatars3.githubusercontent.com/u/22113485?s=100&v=4)
+[Vijay](https://github.com/vijaysoul)
 
 > ![image](https://avatars3.githubusercontent.com/u/52879112?s=100&v=4)
 [Wajeeh ul Hassan](https://github.com/WajeehGillani)
