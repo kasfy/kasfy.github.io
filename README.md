@@ -45,7 +45,7 @@ Detailed changes for each release are documented in the [release notes](https://
 
 ## Contribution
 
-Please make sure to read the [Contributing Guide](https://github.com/kasfy/kasfy/blob/master/.github/CONTRIBUTING.md) before making a pull request. If you have a Kasfy-related project/tool, add it with a pull request to [this curated list](https://github.com/kasfy/kasfy)!
+Please make sure to read the [Contributing Guide](https://github.com/kasfy/kasfy.github.io/blob/master/.github/CONTRIBUTING.md) before making a pull request. If you have a Kasfy-related project/tool, add it with a pull request to [this curated list](https://github.com/kasfy/kasfy)!
 
 Thank you to all the people who already contributed to Kasfy!
 
