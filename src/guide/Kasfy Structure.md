@@ -36,3 +36,7 @@ Kasfy Framework is based on the Model-View-Controller development approach. MVC 
 |--config
 
 ```
+
+
+<br/><br/><br/><br/><br/><hr/>
+This page is <b>open source</b>. Noticed a typo or something's unclear? [Improve this page on GitHub](https://github.com/kasfy/kasfy.github.io)
