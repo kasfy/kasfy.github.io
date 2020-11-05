@@ -6,5 +6,5 @@ tagline: v 1.0.0
 actionText: Quick Start →
 actionLink: /guide/
 
-footer: 🔥 Katheesh ©️ 2020 ❤️
+footer: Kasfy's source code is licensed under MIT. 🔥 Katheesh ©️ 2020 ❤️
 ---
