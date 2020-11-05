@@ -104,3 +104,7 @@ BOOLEAN Equal to BOOL
 **`TIME(fsp)`**:   A time. Format: hh:mm:ss. The supported range is from '-838:59:59' to '838:59:59'
 
 **`YEAR`**:    A year in four-digit format. Values allowed in four-digit format: 1901 to 2155, and 0000.
+
+
+<br/><br/><br/><br/><br/><hr/>
+This page is <b>open source</b>. Noticed a typo or something's unclear? [Improve this page on GitHub](https://github.com/kasfy/kasfy.github.io)

@@ -42,3 +42,7 @@ kasfy make:model <ModelName>
 kasfy create:model <ModelName>
 ```
 
+
+
+<br/><br/><br/><br/><br/><hr/>
+This page is <b>open source</b>. Noticed a typo or something's unclear? [Improve this page on GitHub](https://github.com/kasfy/kasfy.github.io)
