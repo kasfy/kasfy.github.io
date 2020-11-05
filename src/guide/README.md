@@ -18,3 +18,6 @@ Since Kasfy is an open source framework built on top of Node.js, it is no doubt 
 
 ## Kasfy Uses M-V-C
 Kasfy is a Node.js framework that uses the Model-View-Controller approach, which allows great separation between logic and presentation. This is particularly good for projects in which UI/UX developers are working with your template files, as the code these files contain will be minimized. This will prevent mixing the presentation and logic part of your program. Thus, building an efficient and great projects. 
+
+<br/><br/><br/><br/><br/><hr/>
+This page is <b>open source</b>. Noticed a typo or something's unclear? [Improve this page on GitHub](https://github.com/kasfy/kasfy.github.io)
